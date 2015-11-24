@@ -1,0 +1,8 @@
+.suche{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.inner{
+	text-align: center;
+}
