@@ -16,11 +16,11 @@
 	<form name="search" method="post" 
 	action="http://de.wikipedia.org/wiki/Spezial:Suche" target="_blank">
  	 <div class="inner">
-           <p><label for="search">Suche&nbsp;&nbsp;</label></p>
- 	   <input type="text" name="search" size="30" placeholder="Wonach suchen Sie?"/>
+           <p><label for="wikisearch">Suche&nbsp;&nbsp;</label>
+ 	   <input id="wikisearch" type="text" name="search" size="30" placeholder="Wonach suchen Sie?"/>
  	   <br />
  	   <input type="submit" name="go" value="Suche" />
-  	   <input type="submit" name="fulltext" value="Volltextsuche" />
+  	   <input type="submit" name="fulltext" value="Volltextsuche" /></p>
   	 </div>
 	</form>
 
