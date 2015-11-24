@@ -2,6 +2,9 @@
 <html lang="de">
 
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Rhea Funke">
     <link href="css/suche.css" rel="stylesheet">
     <title> Mein Studium - Wikipediasuche</title>
   </head>
