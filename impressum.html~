@@ -2,13 +2,40 @@
 <html lang="de">
 
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Rhea Funke">
+ <link href="css/bootstrap.css" rel="stylesheet">
     <title> Mein Studium - Impressum</title>
     <link href="css/impressum.css" rel="stylesheet">
   </head>
 
-  <body class="impressum">
+<body >
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li>Rhea Felicia Funke</li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="suche.html">Wikipedia-Suche</a></li>
+          <li><a href="impressum.html">Impressum</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron" >
+      <div class="container">
+        <h1>Medizinische Informatik</h1>
+        <p>Mein Studium an der Technischen Hochschule Mittelhessen.</p>
+        <a href="http://www.thm.de/ges" target="_blank">Homepage des Fachbereichs Gesundheit</a>
+      </div>
+    </div> 
+
+  <div class="impressum">
     <h1> Rhea Felicia Funke </h1>
     <p> Licher Stra&szlig;e 9</p>
     <p> D-35394 Gie&szlig;en </p>
+ </div>
 
 </body>

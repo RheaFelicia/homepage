@@ -15,7 +15,7 @@
 }
 
 .jumbotron {
-  height: 500px;
+  height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Verdana", "sans-serif";
@@ -68,6 +68,7 @@
 .learn-more{
     background-color:#efefef;
     border-bottom: 1px solid #dbdbdb;
+
 }
 
 .module h2{
