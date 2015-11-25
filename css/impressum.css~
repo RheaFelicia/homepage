@@ -55,7 +55,7 @@
 .learn-more{
     background-color:#efefef;
     border-bottom: 1px solid #dbdbdb;
-    padding: fixed;
+    
 }
 
 

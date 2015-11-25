@@ -36,6 +36,31 @@
     <h1> Rhea Felicia Funke </h1>
     <p> Licher Stra&szlig;e 9</p>
     <p> D-35394 Gie&szlig;en </p>
+    <p> rhea.felicia.funke@ges.thm.de</p>
+	<br> </br>
+    <p><em> Diese Webseite ist lediglich zu Lernzwecken innerhalb des Hochschulmoduls "Internetbasierete Systeme" der Technischen Hochschule Mittelhessen entstanden.</em></p>
  </div>
+<br></br>
+<div class="learn-more">
+	  <div class="container">
+		<div class="row">
+	      <div class="col-md-4">
+			<h2>THM Bibliothek</h2>
+			<p>Die Bibliotheksseite der Hochschule</p>
+			<p><a href="https://www.thm.de/bibliothek" target="_blank">Hier gehts zur Homepage der Bibliothek</a></p>
+	      </div>
+		  <div class="col-md-4">
+			<h2>THM Online Dienste</h2>
+			<p>Hier kann sich für Prüfungen an- und abgemeldet werden, sowie die Leistungsübersicht eingesehen werden.</p>
+			<p><a href="https://studien-sb-service.th-mittelhessen.de/docu/online.html" target="_blank">Hier geht es zu den Online Diensten für Studierende</a></p>
+		  </div>
+		  <div class="col-md-4">
+			<h2>Moodle</h2>
+			<p>Moodle ist die Lernplattform der THM</p>
+			<p><a href="https://cas.thm.de/cas/login?service=https%3A%2F%2Fmoodle.thm.de%2Flogin%2Findex.php%3FauthCAS%3DCAS" target="_blank">Hier geht es zu Moodle</a></p>
+		  </div>
+	    </div>
+	  </div>
+	</div>
 
 </body>

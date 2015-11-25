@@ -29,6 +29,7 @@
         <h1>Medizinische Informatik</h1>
         <p>Mein Studium an der Technischen Hochschule Mittelhessen.</p>
         <a href="http://www.thm.de/ges" target="_blank">Homepage des Fachbereichs Gesundheit</a>
+<br></br>
       </div>
     </div> 
     
@@ -86,9 +87,15 @@
 		<div class="col-md-4">
                     <div class="thumbnail">
                         
-			<img id="button" src='icon.png'/>
+			<img id="button" src='icon.png'alt="Logo von CodCademy"/>
 			<p>Hier k&ouml;nnen wir online Kurse belegen und damit lernen wie z.B. Homepages gemacht werden</p>
 			<p><a href="https://www.codecademy.com/RheaFunke" target="_blank">Hier gehts zu meinem Profil bei CodeCademy</a></p>
+                    </div>
+			<div class="thumbnail">
+                        <ul id="pullrequest">  <strong>Pull Requests </strong> 
+			<p><a href="#" target="_blank">Mein Pull Request für Jan Ramon Blöcher</a></p>
+			<p><a href="#" target="_blank">Mein Pull Request von Jan Ramon Blöcher</a></p>
+		    </ul>
                     </div>
                 </div>
             </div>

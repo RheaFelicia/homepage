@@ -68,7 +68,7 @@
 .learn-more{
     background-color:#efefef;
     border-bottom: 1px solid #dbdbdb;
-    padding: fixed;
+
 }
 
 .module h2{
@@ -103,4 +103,19 @@
    width: 25%;
    border-radius: 5px;
 }
+#pullrequest{
+  text-align: center;
+  color:black;
+}
+
+#pullrequest a{
+  color:#5a5a5a;
+  font-size: 15px;
+}
+
+#pullrequest a:hover{
+  text-decoration:unterline;
+}
+
+
     
