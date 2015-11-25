@@ -95,9 +95,4 @@
 #quelle_hintergrund{
     font-size: 10px;
  }
-#button{
-   height: 25%;
-   width: 25%;
-   border-radius: 5px;
-}
     

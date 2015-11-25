@@ -6,13 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rhea Funke">
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
     <title> Mein Studium</title>
-    
   </head>
 
-  <body>
+  <body >
     <div class="nav">
       <div class="container">
         <ul class="pull-left">
@@ -26,49 +24,71 @@
       </div>
     </div>
 
-    <div class="jumbotron">
+    <div class="jumbotron" >
       <div class="container">
         <h1>Medizinische Informatik</h1>
         <p>Mein Studium an der Technischen Hochschule Mittelhessen.</p>
-        <a href="http://www.thm.de/ges">Homepage des Fachbereichs Gesundheit</a>
-	
-	<p id="quelle_hintergrund"><em>Quelle:http://thumbs.dreamstime.com/z/das-menschliche-gehirn-20791532.jpg</em></p>
+        <a href="http://www.thm.de/ges" target="_blank">Homepage des Fachbereichs Gesundheit</a>
       </div>
     </div> 
     
     <div class="module">
         <div class="container">
-            <h2><strong>Themengebiete des Studienfachs medizinische Informatik</strong></h2>
+            <h2><strong>Bisher belegte Module</strong></h2>
 		<a href="http://thm.de/ges/studium/bachelor/medinfbsc/contentmedinfbsc"> Studieninhalte Medizinische Informatik Bachelor</a>
             <div class="row">
                 <div class="col-md-4"> 
                     <div class="thumbnail">
-                        <img src="https://elearning.physik.uni-frankfurt.de/data/FB13-PhysikOnline/mobs/mm_8977/tafelbild_datenschutz.jpg" />
-			<p id="quellen"><em>Quelle:https://elearning.physik.uni-frankfurt.de/data/FB13-PhysikOnline/mobs/mm_8977/tafelbild_datenschutz.jpg</em></p>
+                        <ul> 
+			<ol> <strong>1. Semester </strong> </ol>
+			<li> Objektorientierte Programmierung </li>
+			<li> Grundlagen der Informatik</li>
+			<li> Medizinische Grundlagen 1 </li>
+			<li> Gesundheitswesen und Gesundheitsökonomie</li>
+			<li> Krankenhausbetriebslehre </li>
+			<li> Diskrete Mathematik</li>
+			</ol>
+			</ul>
                     </div>
                     <div class="thumbnail">
-                        <img src="https://d1wshrh2fwv7ib.cloudfront.net/courses/b45d124d-6758-475e-9c96-cacbf12a2612/medium_45231720.jpg" />
-			<p id="quellen"><em>Quelle:https://d1wshrh2fwv7ib.cloudfront.net/courses/b45d124d-6758-475e-9c96-cacbf12a2612/medium_45231720.jpg</em></p>
+                        <ul> 
+			<ol> <strong>2. Semester </strong> </ol>
+			<li> Programmierung interaktiver Systeme </li>
+			<li> Algorithmen und Datenstrukturen</li>
+			<li> Medizinische Grundlagen 2</li>
+			<li> Datenschutz und datensicherheit</li>
+			<li> Lineare Algebra </li>
+			</ol>
+			</ul>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail">
-                        <img src="http://www.kaysers-consilium.de/html2/img/pixseminar/mg.jpg" />
-			<p id="quellen"><em>Quelle:http://www.kaysers-consilium.de/html2/img/pixseminar/mg.jpg</em></p>
+                        <ul> 
+			<ol> <strong>3. Semester </strong> </ol>
+			<li> Medizintechnik</li>
+			<li> Informationssysteme im Gesundheitswesen</li>
+			<li> Datenbanksysteme</li>
+			<li> Softwaretechnik</li>
+			<li> Stochastik</li>
+			</ol>
+			</ul>
                     </div>
                     <div class="thumbnail">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Cochlear_implant.jpg" />
-                        <p id="quellen"> <em>Quelle:https://upload.wikimedia.org/wikipedia/commons/c/cb/Cochlear_implant.jpg</em></p>
+                        <ul> 
+			<ol> <strong>Wahlpflichtmodule </strong> </ol>
+			<li> RFID </li>
+			<li> Einführung in Eingebettete Systeme</li>
+			</ol>
+			</ul>
                     </div>
                 </div>
-                <div class="col-md-4">
+		<div class="col-md-4">
                     <div class="thumbnail">
-                        <img src="http://www.mv-gesundheitsnetz.de/_images/gesundheit.jpg"/>
-			<p id="quellen"> <em>Quelle:http://www.mv-gesundheitsnetz.de/_images/gesundheit.jpg </em></p>
-                    </div>
-		   <div class="thumbnail">
-                        <img src="http://diepresse.com/images/uploads/3/7/b/1586043/6B95AEE4-4DD3-40FA-B010-E70C1E1B26F2_v0_h.jpg" />
-			<p id="quellen"><em>Quelle:http://diepresse.com/images/uploads/3/7/b/1586043/6B95AEE4-4DD3-40FA-B010-E70C1E1B26F2_v0_h.jpg</em></p>
+                        
+			<img id="button" src='icon.png'/>
+			<p>Hier k&ouml;nnen wir online Kurse belegen und damit lernen wie z.B. Homepages gemacht werden</p>
+			<p><a href="https://www.codecademy.com/RheaFunke" target="_blank">Hier gehts zu meinem Profil bei CodeCademy</a></p>
                     </div>
                 </div>
             </div>
@@ -79,19 +99,19 @@
 	  <div class="container">
 		<div class="row">
 	      <div class="col-md-4">
-			<h3>CodeCademy</h3>
-			<p>Hier k&ouml;nnen wir online Kurse belegen</p>
-			<p><a href="https://www.codecademy.com/RheaFunke">Hier gehts zu meinem Profil bei CodeCademy</a></p>
+			<h3>THM Bibliothek</h3>
+			<p>Die Bibliotheksseite der Hochschule</p>
+			<p><a href="https://www.thm.de/bibliothek" target="_blank">Hier gehts zur homepage der Bibliothek</a></p>
 	      </div>
 		  <div class="col-md-4">
-			<h3>BDH Klinik Braunfels</h3>
-			<p>Unser Partnerkrankenhaus</p>
-			<p><a href="http://www.bdh-klinik-braunfels.de/index.php?fontSize=1">Homepage der BHD Klinik Braunfels</a></p>
+			<h3>THM Online Dienste</h3>
+			<p>Hier kann sich für Prüfungen an- und abgemeldet werden, sowie die Leistungsübersicht eingesehen werden.</p>
+			<p><a href="https://studien-sb-service.th-mittelhessen.de/docu/online.html" target="_blank">Hier geht es zu den Online Diensten für Studierende</a></p>
 		  </div>
 		  <div class="col-md-4">
 			<h3>Moodle</h3>
 			<p>Moodle ist die Lernplattform der THM</p>
-			<p><a href="https://cas.thm.de/cas/login?service=https%3A%2F%2Fmoodle.thm.de%2Flogin%2Findex.php%3FauthCAS%3DCAS">Hier geht es zu Moodle</a></p>
+			<p><a href="https://cas.thm.de/cas/login?service=https%3A%2F%2Fmoodle.thm.de%2Flogin%2Findex.php%3FauthCAS%3DCAS" target="_blank">Hier geht es zu Moodle</a></p>
 		  </div>
 	    </div>
 	  </div>

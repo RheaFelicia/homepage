@@ -28,3 +28,13 @@ a:hover {
 .inner{
 	text-align: center;
 }
+
+.pull-right{
+  padding-right: 15px;
+  padding-left: 0;
+  text-align: right;
+  border-right: 5px solid #eee;
+  border-left: 0;
+}
+
+

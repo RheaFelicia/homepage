@@ -10,6 +10,19 @@
   </head>
 
   <body>
+          <p>Rhea Felicia Funke</p>
+
+        <div class="pull-right">
+          <div><a href="index.html">Home</a> </div>
+        </div>
+<div class="pull-right">
+	<div><a href="suche.html">Wikipedia-Suche</a></div>
+        </div>
+<div class="pull-right">
+	<div> <a href="impressum.html">Impressum</a></div>
+
+        </div>
+
 	<div class="suche">
 	<h1>Wikipedia</h1>
 	<a href="http://de.wikipedia.org" target="_blank">
@@ -21,7 +34,7 @@
 	action="http://de.wikipedia.org/wiki/Spezial:Suche" target="_blank">
  	 <div class="inner">
            <p><label for="wikisearch">Suche&nbsp;&nbsp;</label>
- 	   <input id="wikisearch" type="text" name="search" size="30" placeholder="Wonach suchen Sie?"/>
+ 	   <input autofocus id="wikisearch" type="text" name="search" size="30" placeholder="Wonach suchen Sie?"/>
  	   <br />
  	   <input type="submit" name="go" value="Suche" />
   	   <input type="submit" name="fulltext" value="Volltextsuche" /></p>
