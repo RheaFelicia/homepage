@@ -5010,7 +5010,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-image: url(test.JPG);
+  background-image: url(thailand.jpg);
   height: 300px;
 
 }
@@ -5053,7 +5053,7 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  background-color: #f7f7f7;
+  background-color: #efefef;
   border-radius: 10px;
   -webkit-transition: border .2s ease-in-out;
        -o-transition: border .2s ease-in-out;

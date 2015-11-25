@@ -1,5 +1,19 @@
 body{
+
 	font-family: "Verdana", sans-serif;
+	font-weight: bold;
+	background-image:url('palmen2.JPG');
+ 	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+h1{
+ 	font-size: 20px;
+	color: #5a5a5a;
 }
 
 .suche{
@@ -20,9 +34,9 @@ a:hover {
 	border-radius: 15px;
 	background-color: rgba(0,0,0,0.3);
 	margin: auto;
-	margin-bottom: 10px;
-	margin-top: 10px;
-	padding: 20px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding: 0px;
 }
 
 .inner{
@@ -37,10 +51,4 @@ a:hover {
   border-left: 0;
 }
 
-.pull-left{
-  padding-left: 15px;
-  padding-right: 0;
-  text-align: left;
-  border-left: 5px solid #eee;
-  border-right: 0;
-}
+
