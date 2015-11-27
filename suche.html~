@@ -6,14 +6,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rhea Funke">
     <link href="css/suche.css" rel="stylesheet">
+<link href="css/bootstrap.css" rel="stylesheet">
     <title> Mein Studium - Wikipediasuche</title>
   </head>
 
   <body>
 
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li>Rhea Felicia Funke</li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="suche.html">Wikipedia-Suche</a></li>
+          <li><a href="impressum.html">Impressum</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron" >
+      <div class="container">
+        <h1>Medizinische Informatik</h1>
+        <p>Mein Studium an der Technischen Hochschule Mittelhessen.</p>
+        <a href="http://www.thm.de/ges" target="_blank">Homepage des Fachbereichs Gesundheit</a>
+	<br></br>
+      </div>
+    </div> 
 
 	<div class="suche">
-	<h1>Starten Sie mit Ihrer Suche!</h1>
+	<h2>Starten Sie mit Ihrer Suche!</h2>
 	<br></br>
 	<a href="http://de.wikipedia.org" target="_blank">
 	  <img src="http://upload.wikimedia.org/wikipedia/commons/0/0b/Wikipedia_240x60.png"
@@ -24,7 +46,7 @@
 	action="http://de.wikipedia.org/wiki/Spezial:Suche" target="_blank">
  	 <div class="inner">
            <p><label for="wikisearch">Suche&nbsp;&nbsp;</label>
- 	   <input autofocus id="wikisearch" type="text" name="search" size="100" placeholder="Wonach suchen Sie?"/>
+ 	   <input autofocus id="wikisearch" type="text" name="search" size="30" placeholder="Wonach suchen Sie?"/>
  	   <br />
  	   <input type="submit" name="go" value="Suche" />
   	   <input type="submit" name="fulltext" value="Volltextsuche" /></p>
@@ -43,5 +65,26 @@
           alt="Level Triple-A conformance, 
           W3C WAI Web Content Accessibility Guidelines 2.0"></a>
 	
+	</div>
+ <div class="learn-more">
+	  <div class="container">
+		<div class="row">
+	      <div class="col-md-4">
+			<h3>THM Bibliothek</h3>
+			<p>Die Bibliotheksseite der Hochschule</p>
+			<p><a href="https://www.thm.de/bibliothek" target="_blank">Hier gehts zur Homepage der Bibliothek</a></p>
+	      </div>
+		  <div class="col-md-4">
+			<h3>THM Online Dienste</h3>
+			<p>Hier kann sich für Prüfungen an- und abgemeldet werden, sowie die Leistungsübersicht eingesehen werden.</p>
+			<p><a href="https://studien-sb-service.th-mittelhessen.de/docu/online.html" target="_blank">Hier geht es zu den Online Diensten für Studierende</a></p>
+		  </div>
+		  <div class="col-md-4">
+			<h3>Moodle</h3>
+			<p>Moodle ist die Lernplattform der THM</p>
+			<p><a href="https://cas.thm.de/cas/login?service=https%3A%2F%2Fmoodle.thm.de%2Flogin%2Findex.php%3FauthCAS%3DCAS" target="_blank">Hier geht es zu Moodle</a></p>
+		  </div>
+	    </div>
+	  </div>
 	</div>
 </body>
