@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rhea Funke">
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
     <title> Mein Studium</title>
   </head>
@@ -29,7 +29,7 @@
         <h1>Medizinische Informatik</h1>
         <p>Mein Studium an der Technischen Hochschule Mittelhessen.</p>
         <a href="http://www.thm.de/ges" target="_blank">Homepage des Fachbereichs Gesundheit</a>
-<br></br>
+	<br></br>
       </div>
     </div> 
     
@@ -94,7 +94,7 @@
 			<div class="thumbnail">
                         <ul id="pullrequest">  <strong>Pull Requests </strong> 
 			<p><a href="#" target="_blank">Mein Pull Request für Jan Ramon Blöcher</a></p>
-			<p><a href="#" target="_blank">Mein Pull Request von Jan Ramon Blöcher</a></p>
+			<p><a href="https://github.com/RheaFelicia/homepage/pull/1" target="_blank">Mein Pull Request von Jan Ramon Blöcher</a></p>
 		    </ul>
                     </div>
                 </div>
